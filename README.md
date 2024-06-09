@@ -27,7 +27,8 @@ Após clonar o repositório para a sua máquina local, no diretório do projeto:
 * Execute `sudo docker-compose up -d` para iniciar os contêineres Docker.
 * Execute `npm run dev` para iniciar um servidor de desenvolvimento.
 
-## Configuerar o Replica Set .
+## Controlador JDS Evolution
+### Configurar o Replica Set:
 * [Replication](https://www.mongodb.com/docs/manual/replication/)
 * [Deploy a Replica Set](https://www.mongodb.com/docs/manual/tutorial/deploy-replica-set/)
   
