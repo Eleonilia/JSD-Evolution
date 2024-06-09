@@ -30,6 +30,15 @@ Após clonar o repositório para a sua máquina local, no diretório do projeto:
 ## Configuerar o Replica Set .
 * [Replication](https://www.mongodb.com/docs/manual/replication/)
 * [Deploy a Replica Set](https://www.mongodb.com/docs/manual/tutorial/deploy-replica-set/)
-### Preencher informações do arquivo config
-### Para inicicar o controlador JSD Evolution rodando:
-*[Controlador JSD Evolution](https://github.com/Eleonilia/JSD-Evolution/blob/main/Controlador/Controlador_Banco.ipynb)
+  
+### Preencher informações de Entrada:
+* [Configuração de Entrada](Controlador/config.json)
+  
+### Para inicicar o controlador JSD Evolution:
+*[Controlador JSD Evolution](Controlador/Controlador_Banco.ipynb)
+
+## Experimentos:
+* [JSD Evolution](Experimentos/Experimentos_JSD_Evolution.ipynb) 
+* [JSD](Experimentos/Experimentos_JSD.ipynb)
+
+
