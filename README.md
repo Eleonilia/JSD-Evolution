@@ -6,7 +6,7 @@ O projeto JSD Evolution tem como objetivo evoluir o esquema JSON de forma increm
 A JSD Evolution se destaca por focar exclusivamente nos novos documentos adicionados à coleção para evoluir o esquema, reduzindo significativamente o tempo e o esforço necessários para manter o esquema atualizado. Isso não apenas otimiza a gestão de dados em ambientes dinâmicos, mas também oferece uma solução mais eficiente e escalável para a evolução contínua do esquema.
 
 ## O projeto JSD Evolution foi uma extensão da ferramenta: 
-* [JSON Schema Discovery] (https://github.com/feekosta/JSONSchemaDiscovery.git)
+* [JSON Schema Discovery](https://github.com/feekosta/JSONSchemaDiscovery.git)
 
 ## O que você precisa instalar para executar este projeto:
 * [NodeJS](http://nodejs.org)
