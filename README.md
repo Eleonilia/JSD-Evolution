@@ -1,11 +1,14 @@
 # JSD Evolution
 
 ## Descrição do Projeto
-O projeto JSD Evolution tem como objetivo evoluir o esquema JSON de forma incremental à medida que novos documentos são adicionados à coleção. A JSD Evolution expande a abordagem de Frozza et al. (2018), partindo da premissa de que existe um esquema JSON inicial que reflete a coleção de documentos existente. À medida que novos documentos são adicionados, o esquema JSON é atualizado para incorporar essas novas adições.
+O projeto JSD Evolution tem como objetivo evoluir o esquema JSON de forma incremental à medida que novos documentos são adicionados à coleção. A JSD Evolution expande a abordagem de Frozza et al. (2018) (An Approach for Schema Extraction of JSON and Extended JSON Document Collections), partindo da premissa de que existe um esquema JSON inicial que reflete a coleção de documentos existente. À medida que novos documentos são adicionados, o esquema JSON é atualizado para incorporar essas novas adições.
 
 A JSD Evolution se destaca por focar exclusivamente nos novos documentos adicionados à coleção para evoluir o esquema, reduzindo significativamente o tempo e o esforço necessários para manter o esquema atualizado. Isso não apenas otimiza a gestão de dados em ambientes dinâmicos, mas também oferece uma solução mais eficiente e escalável para a evolução contínua do esquema.
 
-## O que você precisa instalar para executar este projeto::
+## O projeto JSD Evolution foi uma extensão da ferramenta: 
+* [JSON Schema Discovery] (https://github.com/feekosta/JSONSchemaDiscovery.git)
+
+## O que você precisa instalar para executar este projeto:
 * [NodeJS](http://nodejs.org)
 * [Mongo DB](https://www.mongodb.org)
 * [Python](https://www.python.org)
