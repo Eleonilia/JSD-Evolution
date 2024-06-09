@@ -1,0 +1,23 @@
+{
+    "username": "example",
+    "email": "example@example.com",
+    "password": "password123",
+    "num_repetitions": 10,
+    "database": "Teste_simples",
+    "initial_collection": "vk_450",
+    "collections_to_update": [
+        "vk_900",
+        "vk_1800",
+        "vk_3600",
+        "vk_7200",
+        "vk_14400",
+        "vk_28800",
+        "vk_57600",
+        "vk_115200",
+        "vk_230400",
+        "vk_460800",
+        "vk_921600"
+    ],
+    "database_userName": "",
+    "database_password": ""
+}

@@ -1,0 +1,23 @@
+{
+    "username": "example_1",
+    "email": "example_1@example.com",
+    "password": "password123",
+    "database": "experiment_VK_batch",
+    "num_repetitions": 10,
+    "collections_to_Batch": [
+        "experiment_vk_batch_1",
+        "experiment_vk_batch_2",
+        "experiment_vk_batch_3",
+        "experiment_vk_batch_4",
+        "experiment_vk_batch_5",
+        "experiment_vk_batch_6",
+        "experiment_vk_batch_7",
+        "experiment_vk_batch_8",
+        "experiment_vk_batch_9",
+        "experiment_vk_batch_10",
+        "experiment_vk_batch_11",
+        "experiment_vk_batch_12"
+    ],
+    "database_userName": "",
+    "database_password": ""
+}

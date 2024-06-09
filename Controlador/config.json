@@ -1,0 +1,16 @@
+{
+    "account": {
+        "username": "eleonilia",
+        "email": "eleonilia@example.com",
+        "password": "password123"
+    },
+    "database": {
+        "databaseName": "changestream",
+        "collectionName": "twitter",
+        "limite_documentos": 10,
+        "colecao_monitorada": "twitter",
+        "port": "27016",
+        "userName": "",
+        "password": ""
+    }
+}
