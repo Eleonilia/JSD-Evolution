@@ -14,6 +14,7 @@ A JSD Evolution se destaca por focar exclusivamente nos novos documentos adicion
 * [Python](https://www.python.org)
 
 ## Configurando o ambiente de desenvolvimento:
+
 Após clonar o repositório para a sua máquina local, no diretório do projeto:
 1. Instale as dependências globais:
 * [Angular CLI](https://cli.angular.io/) `npm install -g @angular/cli`
@@ -22,7 +23,7 @@ Após clonar o repositório para a sua máquina local, no diretório do projeto:
 2. Instale as dependências do projeto executando: `npm install`;
 3. Instale o Docker: `sudo apt install docker.io docker docker-compose`
 
-## Development server
+## Server
 * Execute `sudo docker-compose up -d` para iniciar os contêineres Docker.
 * Execute `npm run dev` para iniciar um servidor de desenvolvimento.
 
@@ -30,16 +31,6 @@ Após clonar o repositório para a sua máquina local, no diretório do projeto:
 Configuerar o Replica Set.
 * [Replication](https://www.mongodb.com/docs/manual/replication/)
 * [Deploy a Replica Set](https://www.mongodb.com/docs/manual/tutorial/deploy-replica-set/)
-
-## Code scaffolding
-
-Execute `ng generate component component-name` para gerar um novo componente. Você também pode usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Executando testes unitários
-
-Execute `ng test` para executar os testes unitários via [Karma](https://karma-runner.github.io).
-
-## Executando testes end-to-end
-
-Execute `ng e2e` para executar os testes end-to-end via [Protractor](http://www.protractortest.org/).
-Antes de executar os testes rode o servidor pelo comando `ng serve`.
+Preencher informações do arquivo config
+Para inicicar o controlador JSD Evolution rodando:
+*Controlador.ipynb
