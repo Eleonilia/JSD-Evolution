@@ -1,6 +1,6 @@
 {
-    "username": "example_1",
-    "email": "example_1@example.com",
+    "username": "example",
+    "email": "example@example.com",
     "password": "password123",
     "database": "experiment_VK_batch",
     "num_repetitions": 10,
