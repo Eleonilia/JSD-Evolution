@@ -1,7 +1,7 @@
 {
     "account": {
-        "username": "eleonilia",
-        "email": "eleonilia@example.com",
+        "username": "example",
+        "email": "example@example.com",
         "password": "password123"
     },
     "database": {
