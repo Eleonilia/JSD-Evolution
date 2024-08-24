@@ -35,7 +35,7 @@ Após clonar o repositório para a sua máquina local, no diretório do projeto:
 ### Preencher informações de Entrada:
 * [Configuração de Entrada](Controlador/config.json)
   
-### Para inicicar o controlador JSD Evolution:
+### Para iniciar o controlador JSD Evolution:
 * [Controlador JSD Evolution](Controlador/Controlador_JSD_Evolution.ipynb)
 
 ## Experimentos:
