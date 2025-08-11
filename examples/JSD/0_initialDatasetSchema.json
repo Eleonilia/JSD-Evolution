@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-06/schema#","definitions":{},"properties":{"_id":{"name":"_id","type":"number"},"published":{"name":"published","type":"boolean"}},"additionalProperties":false,"required":["_id","published"]}

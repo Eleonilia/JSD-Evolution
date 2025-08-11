@@ -1,0 +1,86 @@
+[
+  {
+    "published": true
+  },
+  {
+    "published": true
+  },
+  {
+    "published": false
+  },
+  {
+    "attachments": [
+      {
+        "url": "/image.png"
+      },
+      {
+        "url": "/document.pdf"
+      }
+    ],
+    "nested_arrays": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "attachments": [
+      {
+        "url": "/image.png"
+      },
+      {
+        "url": "/document.pdf"
+      }
+    ],
+    "nested_arrays": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "attachments": [
+      {
+        "url": "/image.png"
+      },
+      {
+        "url": "/document.pdf"
+      }
+    ],
+    "nested_arrays": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "attachments": [
+      {
+        "url": "/image.png"
+      },
+      {
+        "url": "/document.pdf"
+      }
+    ],
+    "nested_arrays": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "attachments": [
+      {
+        "url": "/image.png"
+      },
+      {
+        "url": "/document.pdf"
+      }
+    ],
+    "nested_arrays": [
+      [
+        0
+      ]
+    ]
+  }
+]

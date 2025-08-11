@@ -1,0 +1,72 @@
+[
+  {
+    "published": true
+  },
+  {
+    "published": true
+  },
+  {
+    "published": false
+  },
+  {
+    "nothings": [],
+    "ratings": [
+      5,
+      4,
+      5,
+      5,
+      4
+    ],
+    "comments": [
+      "I like this",
+      ":)"
+    ]
+  },
+  {
+    "nothings": [],
+    "ratings": [
+      5,
+      5,
+      5,
+      4
+    ],
+    "comments": [
+      "I like this",
+      ":)",
+      "I like this"
+    ]
+  },
+  {
+    "nothings": [],
+    "ratings": [
+      5,
+      4,
+      2
+    ],
+    "comments": [
+      "I like this"
+    ]
+  },
+  {
+    "nothings": [],
+    "ratings": [
+      5,
+      4,
+      5,
+      5,
+      4,
+      10
+    ],
+    "comments": [
+      "I like this",
+      ":)",
+      "I like this",
+      "I like this"
+    ]
+  },
+  {
+    "nothings": [],
+    "ratings": [],
+    "comments": []
+  }
+]
