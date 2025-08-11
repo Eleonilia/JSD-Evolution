@@ -1,0 +1,59 @@
+{
+  "mongo": {
+    "uri": "mongodb://localhost:27017"
+  },    
+  "default_dataset": "vk",
+  "datasets": {
+    "vk": {
+      "partitioning": {
+        "db_name": "vk",
+        "src_collection": "vk",
+        "out_prefix": "vk_",
+        "pg": { "dn1": 450, "r": 2, "m": 12 },
+        "performance": { "read_batch_size": 20000, "write_chunk_size": 10000 }
+      },
+      "batch_union": {
+        "source_db": "vk",
+        "part_prefix": "vk_",
+        "dest_db": "vk_batch",
+        "batch_prefix": "vk_batch_",
+        "pg": { "dn1": 450, "r": 2, "m": 12 },
+        "performance": { "read_limit": 50000, "read_batch_size": 20000, "write_chunk_size": 10000 }
+      }
+    },
+    "twitter": {
+      "partitioning": {
+        "db_name": "twitter",
+        "src_collection": "twitter",
+        "out_prefix": "twitter_",
+        "pg": { "dn1": 450, "r": 2, "m": 12 },
+        "performance": { "read_batch_size": 20000, "write_chunk_size": 10000 }
+      },
+      "batch_union": {
+        "source_db": "twitter",
+        "part_prefix": "twitter_",
+        "dest_db": "twitter_batch",
+        "batch_prefix": "twitter_batch_",
+        "pg": { "dn1": 450, "r": 2, "m": 12 },
+        "performance": { "read_limit": 50000, "read_batch_size": 20000, "write_chunk_size": 10000 }
+      }
+    },
+    "book": {
+      "partitioning": {
+        "db_name": "book",
+        "src_collection": "book",
+        "out_prefix": "book_",
+        "pg": { "dn1": 10000, "r": 2, "m": 12 },
+        "performance": { "read_batch_size": 20000, "write_chunk_size": 10000 }
+      },
+      "batch_union": {
+        "source_db": "book",
+        "part_prefix": "book_",
+        "dest_db": "book_batch",
+        "batch_prefix": "book_batch_",
+        "pg": { "dn1": 10000, "r": 2, "m": 12 },
+        "performance": { "read_limit": 50000, "read_batch_size": 20000, "write_chunk_size": 10000 }
+      }
+    }
+  }
+}

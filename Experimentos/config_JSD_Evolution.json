@@ -1,6 +1,6 @@
 {
-    "username": "example",
-    "email": "example@example.com",
+    "username": "example_1",
+    "email": "example_1@example.com",
     "password": "password123",
     "num_repetitions": 10,
     "database": "Teste_simples",
