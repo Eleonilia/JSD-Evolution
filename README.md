@@ -39,6 +39,17 @@ Após clonar o repositório para a sua máquina local, no diretório do projeto:
 * [Controlador JSD Evolution](Controlador/Controlador_JSD_Evolution.ipynb)
 
 ## Experimentos:
+
+### Conjunto de dados usado nos experimentos
+* [Twitter](https://www.kaggle.com/datasets/borisch/russian-election-2018-twitter)
+* [VK](https://www.kaggle.com/datasets/borisch/russian-election-2018-vkcom-user-activity)
+* [Book](https://www.kaggle.com/datasets/opalskies/large-books-metadata-dataset-50-mill-entries)
+
+### Particionamento dos conjuntos de dados
+O particionamento dos conjuntos de dados foi realizado utilizando o mesmo procedimento para os experimentos JSD Evolution e JSD, conforme descrito no notebook:
+* [Preparação dos conjuntos de dados](https://github.com/Eleonilia/JSD-Evolution/blob/main/Experimentos/preparacao_conjuntos_DB.ipynb)
+
+### Execução dos experimentos
 * [JSD Evolution](Experimentos/Experimentos_JSD_Evolution.ipynb) 
 * [JSD](Experimentos/Experimentos_JSD.ipynb)
 
